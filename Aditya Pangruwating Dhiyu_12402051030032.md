@@ -4,6 +4,7 @@ Kelas : 4A
 
 NIM : 12402051030032
 
+Pertanyaan : Apa yang dimaksud dengan making culture?
 
 # Pandangan Making Culture Berdasarkan Karl Marx Pada Buku Das Capital dan Para Ahli
 
