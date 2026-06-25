@@ -1,5 +1,5 @@
 {"version":3,"term":{"cols":80,"rows":24,"type":"xterm-256color","version":"VTE(8400)","theme":{"fg":"#ffffff","bg":"#000000","palette":"#000000:#aa0000:#00aa00:#aa5500:#0000aa:#aa00aa:#00aaaa:#aaaaaa:#555555:#ff5555:#55ff55:#ffff55:#5555ff:#ff55ff:#55ffff:#ffffff"}},"timestamp":1781808576,"env":{"SHELL":"/usr/bin/bash"}}
-[0.012, "o", "\u001b]0;sebelas@admin:~\u0007"]
+[0.012, "o", "\u001b]0;pluto@admin:~\u0007"]
 [0.000, "o", "\u001b[?2004h[sebelas@admin ~]$ "]
 [6.191, "o", "i"]
 [0.092, "o", "w"]
