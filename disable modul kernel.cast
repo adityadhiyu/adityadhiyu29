@@ -1,5 +1,5 @@
 {"version":3,"term":{"cols":240,"rows":67,"type":"linux"},"timestamp":1781800281,"env":{"SHELL":"/usr/bin/bash"}}
-[0.015, "o", "\u001b[?2004h[pioneer@server ~]$ "]
+[0.015, "o", "\u001b[?2004h[pluto@server ~]$ "]
 [316.103, "o", "m"]
 [0.272, "o", "o"]
 [0.188, "o", "d"]
